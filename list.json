@@ -565,12 +565,12 @@
         "category": "Groundwater",
         "docs": "https://anaflow.readthedocs.io",
         "CI": 1,
-        "last_update": "2023-04-16T11:47:20",
+        "last_update": "2025-10-17T10:33:15",
         "pypi": "https://pypi.org/project/Anaflow/",
         "doi_software": "https://doi.org/10.5281/zenodo.1135723",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Anaflow",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "legacy": 0
     },
     "WellTestPy": {
