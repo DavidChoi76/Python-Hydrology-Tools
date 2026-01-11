@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-07-26T09:01:06",
+        "last_update": "2026-01-04T19:13:41",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.8.0",
+        "version": "0.8.1",
         "legacy": ""
     },
     "Pytesmo": {
@@ -1018,7 +1018,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": "8.9.0",
+        "version": "8.9.1",
         "legacy": ""
     },
     "PyHSPF": {
