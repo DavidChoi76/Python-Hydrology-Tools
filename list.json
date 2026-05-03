@@ -425,12 +425,12 @@
         "category": "Unsaturated Zone",
         "docs": "https://pytesmo.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-03-05T15:59:08",
+        "last_update": "2026-04-30T10:23:39",
         "pypi": "https://pypi.org/project/Pytesmo/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.18.0",
+        "version": "0.18.1",
         "legacy": ""
     },
     "Phydrus": {
@@ -1237,12 +1237,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-08-13T22:35:35",
+        "last_update": "2026-05-01T22:11:47",
         "pypi": "https://pypi.org/project/pydsstools/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.7144730",
         "doi_paper": "",
         "conda": "",
-        "version": "2.4.0",
+        "version": "3.0.1",
         "legacy": ""
     },
     "eWaterCycle": {
