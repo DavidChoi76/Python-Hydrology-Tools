@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.13",
+        "version": "1.18.14",
         "legacy": ""
     },
     "MetSim": {
@@ -467,12 +467,12 @@
         "category": "Unsaturated Zone",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-02-02T15:36:00",
+        "last_update": "2026-06-08T08:42:34",
         "pypi": "https://pypi.org/project/pedon/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.0.12",
+        "version": "0.1.0",
         "legacy": ""
     },
     "FloPy": {
@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-05-21T12:40:18",
+        "last_update": "2026-06-08T12:42:43",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.31.0",
+        "version": "1.31.1",
         "legacy": ""
     },
     "SPHY": {
